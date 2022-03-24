@@ -1,0 +1,11 @@
+[ {
+  "uid" : "c53ed8a7d1e85a96",
+  "name" : "test_check_content",
+  "time" : {
+    "start" : 1648117614682,
+    "stop" : 1648117638526,
+    "duration" : 23844
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

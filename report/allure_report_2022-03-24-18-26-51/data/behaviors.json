@@ -1,0 +1,30 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "g7s登录",
+    "children" : [ {
+      "name" : "登录成功",
+      "children" : [ {
+        "name" : "test_check_content",
+        "uid" : "c53ed8a7d1e85a96",
+        "parentUid" : "694b5bcb796ed90a5a01a4d4a314f41a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1648117614682,
+          "stop" : 1648117638526,
+          "duration" : 23844
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "newPassed" : false,
+        "newBroken" : false,
+        "retriesCount" : 0,
+        "retriesStatusChange" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "694b5bcb796ed90a5a01a4d4a314f41a"
+    } ],
+    "uid" : "cbfe8719a290e471df7da081c593bd01"
+  } ]
+}

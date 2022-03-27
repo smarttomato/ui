@@ -20,12 +20,8 @@ log_info = {
 
 # url配置
 urls = {
-    "test": {
-        "g7s": {
-            "login": "https://g7s.test.chinawayltd.com/"
-        }
+    "test": ""
     }
-}
 
 # 数据库配置
 xxx_db = {

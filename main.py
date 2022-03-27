@@ -12,4 +12,4 @@ pytest.main([
             ])
 
 # 生成报告
-subprocess.call("allure generate {} -o report/allure_report_{}".format(report_name, current_time), shell=True)
+# subprocess.call("allure generate {} -o report/allure_report_{}".format(report_name, current_time), shell=True)

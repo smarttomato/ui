@@ -9,7 +9,6 @@ from PIL import Image
 
 
 class BasePage:
-
     def __init__(self, driver):
         self.driver = driver
 
@@ -80,7 +79,4 @@ class BasePage:
 
 
 if __name__ == '__main__':
-    # d = webdriver.Chrome(executable_path=driver_dir+'/'+"chromedriver")
-    # path = "auto_time.png"
-
-    print(BasePage("1").driver)
+    pass
